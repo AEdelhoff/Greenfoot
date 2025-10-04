@@ -1,8 +1,8 @@
 # Greenfoot
-## Methoden
-## Wiederholungen
-## Bedingte Anweisungen
-## Logische Operatoren
-## Lokale Variablen und Zählschleifen
-## Parameter und Rückgabewerte
-## Algorithmen entwickeln
+## 1. Methoden
+## 2. Wiederholungen
+## 3. Bedingte Anweisungen
+## 4. Logische Operatoren
+## 5. Lokale Variablen und Zählschleifen
+## 6. Parameter und Rückgabewerte
+## 7. Algorithmen entwickeln
